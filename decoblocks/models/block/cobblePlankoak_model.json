@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"up": "blocks/cobblestone",
+		"down": "blocks/planks_oak",
+		"north": "decoblocks:blocks/cobblePlankoak",
+		"east": "decoblocks:blocks/cobblePlankoak",
+		"south": "decoblocks:blocks/cobblePlankoak",
+		"west": "decoblocks:blocks/cobblePlankoak",
+		"particle": "blocks/cobblestone"
+	}
+}

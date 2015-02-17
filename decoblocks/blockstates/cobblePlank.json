@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"type=oak": { "model": "decoblocks:cobblePlankoak_model" },
+		"type=spruce": {"model": "decoblocks:cobblePlankspruce_model"},
+		"type=birch": {"model": "decoblocks:cobblePlankbirch_model"},
+		"type=jungle": {"model": "decoblocks:cobblePlankjungle_model"},
+		"type=acacia": {"model": "decoblocks:cobblePlankacacia_model"},
+		"type=dark_oak": {"model": "decoblocks:cobblePlankdarkoak_model"}
+	}
+}
